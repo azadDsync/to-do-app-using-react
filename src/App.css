@@ -1,0 +1,15 @@
+.box{
+    width: 35rem;
+    background-color: rgb(218, 240, 207);
+    border-radius: 0.5rem;
+}
+input{
+    width: 100%;
+}
+
+.my-row{
+ margin: 0.5rem;
+}
+.my-button{
+    width: 70px;
+}
